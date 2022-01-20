@@ -27,4 +27,4 @@ dist/
 *.log
 
 # macOS files
-.DS_Store
+*.DS_Store
