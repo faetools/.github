@@ -12,6 +12,8 @@ If you have programming knowledge with the go language and are interested in hel
 
 Soon, we will be posting upcoming [projects you can contribute to here](https://github.com/orgs/faetools/projects).
 
-# Documentation
+# Getting Started and Documentation
 
 If you are a contributor with access to public repositories, please [check out the docs](https://github.com/faetools/docs).
+
+Please [go here first to **get started**](https://github.com/faetools/docs/blob/main/Onboarding/Getting%20Started%20(Developers).md).
